@@ -180,9 +180,14 @@ Based on the dashboard, some of the major observations include:
 
  Overview Analysis
  [Finance Dashboard - Overview Analysis]https://github.com/shamligadwe/Finance-Analytics-Dashboard-PowerBI/blob/main/Screenshot%20Overview%20Analysis.png
+ The Overview Analysis page provides a consolidated view of financial
+performance, including transaction amount, transaction volume, average
+transaction value, fees, tax, customer segments, transaction status,
+states, and monthly trends.
 
  Transaction Analysis
-  [Finance Dashboard - Overview Analysis](Screenshot Transaction Analysis)
+  [Finance Dashboard - Overview Analysis]https://github.com/shamligadwe/Finance-Analytics-Dashboard-PowerBI/blob/main/Screenshot%20Transaction%20Analysis.png
+  It includes interactive filters for Year, Dynamic Metric, Occupation, and Category, along with a detailed transaction table containing customer, transaction type, status, gender, segment, state, amount, fees, and tax information.
 
 
  📁 Project Structure

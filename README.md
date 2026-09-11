@@ -179,7 +179,7 @@ Based on the dashboard, some of the major observations include:
  📷 Dashboard Preview
 
  Overview Analysis
- [Finance Dashboard - Overview Analysis](Screenshot Overview Analysis)
+ [Finance Dashboard - Overview Analysis]https://github.com/shamligadwe/Finance-Analytics-Dashboard-PowerBI/blob/main/Screenshot%20Overview%20Analysis.png
 
  Transaction Analysis
   [Finance Dashboard - Overview Analysis](Screenshot Transaction Analysis)

@@ -179,11 +179,10 @@ Based on the dashboard, some of the major observations include:
  📷 Dashboard Preview
 
  Overview Analysis
+ [Finance Dashboard - Overview Analysis](Screenshot Overview Analysis)
 
  Transaction Analysis
-
-
-
+  [Finance Dashboard - Overview Analysis](Screenshot Transaction Analysis)
 
 
  📁 Project Structure
